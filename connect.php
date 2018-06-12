@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "arimanu7";
+$password = "ari";
 $db ="login";
 
 // Create connection
